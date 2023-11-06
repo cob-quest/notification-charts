@@ -8,7 +8,7 @@ image:
   repository: registry.gitlab.com/cs302-2023/g3-team8/project/notification-service/main
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 432be0e0
+  tag: 475b07a6
 
 imagePullSecrets: []
 nameOverride: ""
